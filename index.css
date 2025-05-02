@@ -15,7 +15,7 @@
   width: 139.4px;
   top: 40%;
   bottom: 12.17%;
-  left: calc(50% - 69.9px);
+  left: calc(50% - 68.9px);
 }
 .got-2-minutes {
   position: relative;
@@ -35,7 +35,7 @@
 }
 .description-with-bg {
   height: 23px;
-  padding: 0 3px;
+  padding: 0 2px;
   box-sizing: border-box;
   position: relative;
 }
