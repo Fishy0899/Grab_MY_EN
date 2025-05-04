@@ -158,25 +158,36 @@
   font-family: var(--font-inter);
 }
 .greenline-icon1 {
-  width: 281.9px;
+  width: 283.9px;
   height: 74.95%;
   position: absolute;
   margin: 0 !important;
   top: 16.2%;
   bottom: 8.85%;
-  left: calc(50% - 171px);
+  left: calc(50% - 173px);
   max-height: 100%;
   z-index: 0;
 }
 .theyre-basically-family {
   font-weight: 500;
 }
-.kuamut-rainforest {
+.green-programme,
+.if-you-havent {
   font-weight: 800;
+  font-family: var(--font-inter);
 }
-.by-keeping-kuamut-container,
+.if-you-havent {
+  font-weight: 500;
+}
+.malaysias-been-losing {
+  margin: 0;
+}
+.and-an-ally {
+  margin: 0;
+  font-weight: 500;
+}
 .theyre-basically-family-container {
-  width: 324px;
+  width: 367px;
   position: absolute;
   margin: 0 !important;
   top: 24.8%;
@@ -186,9 +197,18 @@
   display: inline-block;
   z-index: 1;
 }
+.kuamut-rainforest {
+  font-weight: 800;
+}
 .by-keeping-kuamut-container {
-  width: 317px;
-  top: 70.6%;
+  width: 293px;
+  position: absolute;
+  margin: 0 !important;
+  top: 70.7%;
+  left: calc(50% - 180px);
+  letter-spacing: -0.01em;
+  line-height: 22px;
+  display: inline-block;
   z-index: 2;
 }
 .did-you-know,
@@ -237,10 +257,6 @@
   max-height: 100%;
   width: 100%;
   object-fit: cover;
-}
-.the-rainforest-also {
-  margin: 0;
-  font-weight: 500;
 }
 .absorbing-and-storing {
   margin: 0;
@@ -318,23 +334,22 @@
 }
 .greenline-icon2 {
   width: 268.4px;
-  height: 68.39%;
+  height: 68.29%;
   position: absolute;
   margin: 0 !important;
-  top: 23.22%;
+  top: 23.32%;
   bottom: 8.39%;
-  left: calc(50% - 152px);
+  left: calc(50% - 153px);
   max-height: 100%;
   z-index: 0;
 }
 .by-conserving-mangroves-container,
 .your-funds-support-container {
-  width: 292px;
+  width: 325px;
   position: absolute;
   margin: 0 !important;
   top: 31.86%;
   left: calc(50% - 180px);
-  letter-spacing: -0.01em;
   line-height: 22px;
   display: inline-block;
   z-index: 1;
@@ -342,6 +357,7 @@
 .by-conserving-mangroves-container {
   width: 284px;
   top: 75.72%;
+  letter-spacing: -0.01em;
   z-index: 2;
 }
 .did-you-know1 {
@@ -350,9 +366,6 @@
   letter-spacing: -0.01em;
   line-height: 23px;
   display: inline-block;
-}
-.malaysias-been-losing {
-  margin: 0;
 }
 .malaysias-been-losing-container {
   margin: 0;
@@ -450,7 +463,7 @@
   display: inline-block;
 }
 .the-green-programme-container {
-  width: 286px;
+  width: 277px;
   position: relative;
   font-size: var(--font-size-mid);
   letter-spacing: -0.01em;
@@ -516,14 +529,6 @@
 }
 .here {
   text-decoration: underline;
-}
-.green-programme,
-.if-you-havent {
-  font-weight: 800;
-  font-family: var(--font-inter);
-}
-.if-you-havent {
-  font-weight: 500;
 }
 .goes-to-show-container {
   width: 272px;
